@@ -1,5 +1,10 @@
 *.jpg
 *.txt
+*.json
+*.cache
+*.png
+*.pt
+
 
 !labels_correlogram.jpg
 !labels.jpg
@@ -13,3 +18,5 @@
 !val_batch1_pred.jpg
 !val_batch2_labels.jpg
 !val_batch2_pred.jpg
+!confusion_matrix.png
+!best.pt
